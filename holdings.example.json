@@ -1,0 +1,7 @@
+{
+  "positions": {
+    "AAPL": {"shares": 50, "avg_cost": 180.00},
+    "MSFT": {"shares": 20}
+  },
+  "cash": 5000
+}

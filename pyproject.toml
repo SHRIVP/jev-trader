@@ -1,0 +1,10 @@
+[project]
+name = "jev-trader"
+version = "0.1.0"
+description = "Paper-trading experiment: Jev (TypeSafe System One) manages a copy of your portfolio for 30 days"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.3.3",
+    "typesafe-sdk>=0.7.5",
+    "yfinance>=1.7.0",
+]
